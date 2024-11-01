@@ -2,9 +2,9 @@
 
 ## Bem-vindo ao meu perfil.:rocket:
 
-<p>Meu nome é Bruno e sou uma pessoa que sempre amou Tecnologia. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu e estou muito empolgado com o Santander Bootcamp - Ciência de Dados com Python, que estou fazendo, e pretendo concluí-lo da melhor maneira.</p> 
+<p>Meu nome é Bruno e sou uma pessoa que sempre amou Tecnologia. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo e estou muito empolgado com tudo que estou aprendendo em minha faculdade.</p> 
 
-<p>Acredito que a manipulação de dados por meio do poder computacional vai revolucionar humanidade de uma forma grandiosa e por isso que quero fazer desta área a minha profissão e colaborar para termos um mundo melhor.</p>
+<p>Estou aprendendo de tudo um pouco, mas meu foco está na manupulação de dados por meio do poder computacional, coisas incríveis vão acontecer daqui para frente por meios destas tecnologias, por isso, quero fazer dos dados a minha área favorita.</p>
 
 ## Conecte-se comigo 
 
