@@ -2,9 +2,9 @@
 
 ## Bem-vindo ao meu perfil.:rocket:
 
-<p>Meu nome é Bruno e sempre amei Tecnologia. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNICID e Engenharia de Computação na UNIVESP e estou muito empolgado com tudo que estou aprendendo em meus cursos.</p> 
+<p>Meu nome é Bruno e sempre amei Tecnologia. Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela UNICID e Engenharia de Computação pela UNIVESP e estou muito empolgado com tudo que estou aprendendo e praticando em meus cursos.</p> 
 
-<p>Estou aprendendo de tudo um pouco, mas meu foco está na manupulação de dados por meio do poder computacional, coisas incríveis vão acontecer daqui para frente por meios destas tecnologias, por isso, quero fazer dos dados a minha área favorita.</p>
+<p>Estou aprendendo de tudo um pouco, mas meu foco está na manupulação de dados por meio do poder computacional, coisas incríveis vão acontecer daqui para frente por meios destas tecnologias, por isso, quero fazer dos dados a minha área de especialização por ser a minha favorita.</p>
 
 ## Conecte-se comigo 
 
