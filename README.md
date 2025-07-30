@@ -1,35 +1,55 @@
-# Olá Pessoal! Muito prazer.:v:
+# 👋 Olá, muito prazer! Sou o Bruno 🚀
 
-## Bem-vindo ao meu perfil.:rocket:
+### 🎓 Estudante de Análise e Desenvolvimento de Sistemas (UNICID) e Engenharia de Computação (UNIVESP)
 
-<p>Meu nome é Bruno e sempre amei Tecnologia. Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela UNICID e Engenharia de Computação pela UNIVESP e estou muito empolgado com tudo que estou aprendendo e praticando em meus cursos.</p> 
+Sou apaixonado por tecnologia e movido pela curiosidade! Atualmente estou focado em **manipulação e análise de dados**, utilizando o poder computacional para transformar informações em soluções inteligentes.
 
-<p>Estou aprendendo de tudo um pouco, mas meu foco está na manupulação de dados por meio do poder computacional, coisas incríveis vão acontecer daqui para frente por meios destas tecnologias, por isso, quero fazer dos dados a minha área de especialização por ser a minha favorita.</p>
+📊 **Dados são minha paixão.** Acredito que o futuro está em extrair valor real de grandes volumes de informação – e quero ser parte disso!
 
-## Conecte-se comigo 
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/bruno-soares-dev91/)
-[![Twitter](https://img.shields.io/badge/x-000?style=for-the-badge&logo=X)](https://twitter.com/BrunoVar1)
-[![Gmail](https://img.shields.io/badge/gmail-000?style=for-the-badge&logo=gmail)](mailto:brunosoaresvargas@gmail.com)
+## 🧠 Conhecimentos e Tecnologias
+
+<p align="left">
+  <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="SQL Server" height="40" src="https://img.icons8.com/color/48/microsoft-sql-server.png">
+  <img alt="MongoDB" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img alt="Power BI" height="40" src="https://img.icons8.com/color/48/power-bi.png">
+  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</p>
+
+---
+
+## 🧩 Projetos em Destaque
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=brusodev&repo=project-calc-css&theme=tokyonight)](https://github.com/brusodev/project-calc-css)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=brusodev&repo=projeto-login&theme=tokyonight)](https://github.com/brusodev/projeto-login)
+
+---
+
+## 🚀 Desafios DIO
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=brusodev&repo=dio-lab-open-source&theme=tokyonight)](https://github.com/brusodev/dio-lab-open-source)
+
+---
+
+## 📈 Estatísticas do GitHub
 
 <div align="center">
-    <a href="https://github.com/brusodev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brusodev&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brusodev&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&langs_count=7&layout=compact"/>
-</div>
-<div>
-    <h2>Tecnologias Que Estou Aprimorando...</h2>
-        <img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-        <img align="center" alt="MsSQL" height="50" width="50" src="https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo.png">
-        <img align="center" alt="MongoDB" height="50" width="60" src="https://e7.pngegg.com/pngimages/63/19/png-clipart-mongodb-database-nosql-postgresql-mongo-text-logo.png">
-        <img align="center" alt="PowerBI" height="50" width="50" src="https://e7.pngegg.com/pngimages/252/727/png-clipart-power-bi-business-intelligence-microsoft-analytics-microsoft-text-rectangle.png">
-        <img align="center" alt="JAVASCRIPT" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">    
-        <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-        <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brusodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brusodev&layout=compact&theme=tokyonight"/>
 </div>
 
-## Meu principais Projetos
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=brusodev&repo=project-calc-css&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/brusodev/project-calc-css.git)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=brusodev&repo=projeto-login&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/brusodev/project-calc-css.git)
+---
 
-## Meus principais Desafios da DIO
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=brusodev&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](thhps://github.com/brusodev/dio-lab-open-source)
+## 🤝 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-soares-dev91/)
+[![Twitter](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/BrunoVar1)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunosoaresvargas@gmail.com)
+
+---
+
+⭐ *Obrigado por visitar meu perfil! Estou sempre aberto a colaborações, novos projetos e desafios. Vamos construir algo incrível juntos!* 🚀
